@@ -1,1 +1,3 @@
 Git stash practical
+New changes
+New changes
